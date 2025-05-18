@@ -13,7 +13,7 @@ echo "Your guess is not a number";
 }
 else if ($_GET['guess']<$correctnumber)
  {
-echo "Your guess is too low";
+echo "Your guess is too short";
 }
 else if ($_GET['guess']>$correctnumber)
  {
