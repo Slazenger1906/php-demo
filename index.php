@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Anamitra Musib 7955f62a </title>
-<?php require_once "bootstrap.php"; ?>
+<title> Sanh Phuc Nguyen (fb00771a) - Autos Database</title>
+<?php include "bootstrap.php"; ?>
 </head>
 <body>
 <div class="container">
-<h1>Welcome to Broken Rock Paper Scissors</h1>
+<h1>Welcome to Autos Database</h1>
 <p><strong>Note:</strong> This sample code is only
 partially done and serves only as a starting point for the assignment.
 </p>
@@ -14,8 +14,8 @@ partially done and serves only as a starting point for the assignment.
 <a href="login.php">Please Log In</a>
 </p>
 <p>
-Attempt to go to 
-<a href="game.php">game.php</a> without logging in - it should fail with an error message.
+Attempt to go to
+<a href="autos.php">autos.php</a> without logging in - it should fail with an error message.
 <p>
 <a href="http://www.wa4e.com/code/rps.zip"
  target="_blank">Source Code for this Application</a>
